@@ -123,7 +123,7 @@ return [
 When you have finished configuring the environments, you will need to set one of them to run the framework.
 Set the development environment using the following command:
 ~~~
-php environment/select
+php environments/select
 ~~~
 
 This process will copy easyly all configuration files from `environment` folder to `config` folder.
