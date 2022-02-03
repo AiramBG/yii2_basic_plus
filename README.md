@@ -119,7 +119,7 @@ return [
 - Check and edit the other files in the `config/` directory to customize your application as required.
 - Refer to the README in the `tests` directory for information specific to basic application tests.
 
-##Switch between environments
+## Switch between environments
 When you have finished configuring the environments, you will need to set one of them to run the framework.
 Set the development environment using the following command:
 ~~~
