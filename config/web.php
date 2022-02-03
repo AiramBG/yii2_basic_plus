@@ -19,7 +19,7 @@ $config = [
         'db' => $db,
         'mailer' => $mailer,
         'request' => [
-            'cookieValidationKey' => 'LEE9KOsx6rKHmWaprCAf7JsG8P2oWJe9',
+            'cookieValidationKey' => '',
         ],
         'cache' => [
             'class' => \yii\caching\FileCache::class,
