@@ -74,7 +74,7 @@ If you are using Apache 2, the site configuration below should work fine (change
 
 CONFIGURATION
 -------------
-Inside the `environment` folder you will find two subfolders: `dev` and `prod` which correspond to the development and production environments. Each of these folders has a `config` subfolder with all the settings for those environments.
+Inside the `environments` folder you will find two subfolders: `dev` and `prod` which correspond to the development and production environments. Each of these folders has a `config` subfolder with all the settings for those environments.
 
 Configure each environment with the requirements you need. Each configuration file is explained below.
 
